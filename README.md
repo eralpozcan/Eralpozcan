@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **Pytorch,Django,Dart/Flutter**
-- 💬 Ask me about **Keras**
+- 💬 Ask me about **Keras,Tensorflow,Visualization**
 - 📫 How to reach me: **eralpozcans@gmail.com**
 
 <a href="https://kaggle.com/Eralpozcan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Eralpozcan" height="30" width="30" /></a>
