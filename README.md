@@ -12,7 +12,7 @@
 
 <a href="https://linkedin.com/in/eralpozcan" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="eralpozcan" height="30" width="30" /></a>
 <a href="https://kaggle.com/Eralpozcan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Eralpozcan" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/eralpozcan" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="Eralpozcan" height="30" width="30" /></a>  
+<a href="https://www.hackerrank.com/eralpozcans" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="Eralpozcan" height="30" width="30" /></a>  
   
   
   
