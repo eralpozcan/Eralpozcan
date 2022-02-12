@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there 👋 </h1>
-<h2 align="center"> Mechatronics Engineer </h2>
+<h2 align="center"> Mechatronics Engineer && Software Developer</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eralpozcan&theme=onedark" alt="eralpozcan" /></a> </p>
 
-- 🌱 I’m currently learning **Pytorch,JS,Dart/Flutter**
-- 💬 Ask me about **Keras,Tensorflow,Visualization**
+- 🌱 I’m currently learning **JS,Dart/Flutter,Nuxt,React**
+- 💬 Ask me about **Keras,Tensorflow,Visualization,Frontend**
 - 📫 How to reach me: **eralpozcans@gmail.com**
-- ⚡ I'm interested in all things data or Ai: **Machine Learning and Data Science, Deep Learning** 
+- ⚡ I'm interested in : **ML and Data Science,Web Development and Mobile Development** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
