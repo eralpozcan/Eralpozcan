@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<h2 align="center"> Mechatronics Engineer && Software Developer</h2>
+<h2 align="center"> Software Developer</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eralpozcan&theme=onedark" alt="eralpozcan" /></a> </p>
 
