@@ -89,6 +89,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Eralpozcan)
 
+<a href="https://www.buymeacoffee.com/eralpozcan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 200px !important;" ></a>
 <!--
 **Eralpozcan/Eralpozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
