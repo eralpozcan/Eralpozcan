@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **JS,Dart/Flutter,Nuxt,React**
 - 💬 Ask me about **Keras,Tensorflow,Visualization,Frontend**
-- 📫 How to reach me: **eralpozcans@gmail.com**
 - ⚡ I'm interested in : **ML and Data Science,Web Development and Mobile Development** 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
