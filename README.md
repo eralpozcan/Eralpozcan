@@ -4,9 +4,9 @@
 <p align="center"><img src="./assets/Logo.gif" alt="eralpozcan" /></a> </p>
 
 <div align="center">
-<li>🌱 I’m currently learning <strong>Nuxt,Redis,Dart/Flutter </strong> </li>
-<li>💬 Ask me about <strong>Keras,Visualization,Vue</strong> </li>
-<li>⚡ I'm interested in : <strong>ELKStack,Redis,Flutter</strong> </li>
+<li>🌱 I’m currently learning: <strong>Tauri,Dart/Flutter </strong> </li>
+<li>💬 Ask me about : <strong>Vue</strong> </li>
+<li>⚡ I'm interested in : <strong>Cloud,Flutter</strong> </li>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -22,7 +22,10 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://nuxtjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+</p>
 
 <h3 align="center">Backend</h3>
 <p align="center"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> 
@@ -54,20 +57,15 @@
 <p align="center">
 <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>   
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
 
 <hr>
 
 <div align="center">
     <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=Eralpozcan&show_icons=true&theme=radical&count_private=true">
-    <img alt="Eralp Ozcan GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Eralpozcan&theme=algolia&hide_border=true">
 </div>
 
 <div align="center">
-    <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=Eralpozcan&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
-    <img alt="Readme Stats Top Lang" width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eralpozcan&layout=compact">
-    <a href="https://www.buymeacoffee.com/eralpozcan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 200px !important;" ></a>
     <img alt="Readme Stats" src="https://komarev.com/ghpvc/?username=Eralpozcan" >
 </div>
 
