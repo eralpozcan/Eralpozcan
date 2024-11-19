@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Eralp, a full-time Full-stack Developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">I'm Eralp, Full-Stack Developer 👨‍💻 working remotely 🚀</div>  
   
 
-- 🔭 I’m currently working on Ecovoltify  
+- 🔭 I’m currently working on Ecovoltify (My Hobby Project)  
   
 
 - 🌱 I’m currently learning Cloud and Dart/Flutter  
@@ -121,11 +121,6 @@
 - [How to Use Object Recognition with TensorFlow.js and Vue 3?](https://medium.com/how-to-use/how-to-use-object-recognition-with-tensorflow-js-and-vue-3-57dac4a53494?source=rss-ca499f26d8b5------2)
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=eralpozcan&&style=flat-square" align="center" />
