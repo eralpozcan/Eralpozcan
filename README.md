@@ -1,108 +1,70 @@
 <div align="center">
-<img src="https://github.com/eralpozcan/Eralpozcan/blob/main/assets/Logo.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Eralp, Full-Stack Developer 👨‍💻 working remotely 🚀</div>  
-  
-
-- 🔭 I’m currently working on 
-  
-
-- 🌱 I’m currently learning Dart/Flutter or O
-  
-
-- ❓ Ask me about anything related to MEVN stack and related technologies  
-  
-
-<br/>  
-
-
-## My Skill Set  
-
-<div align="center">  
-<h2 align="center"> Frontend</h2>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="30" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="30" /></a>  
-<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="30" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="30" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="30" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="30" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="30" /></a>  
+  <img src="https://github.com/eralpozcan/Eralpozcan/blob/main/assets/Logo.gif" align="center" style="width: 100%; max-width: 800px;" />
 </div>
 
-<div align="center"> 
-<h2 align="center"> Backend</h2>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="30" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="30" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="30" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="30" /></a>  
-</div>
-
-<div align="center">  
-<h2 align="center"> Others</h2>
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="30" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="30" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" /></a>  
-<a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="30" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" /></a>  
-</div>
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/eralpozcan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/eralpozcan" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/eralpozcan" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/eralpozcan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/eralpozcan" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/eralpozcan" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <h1>Hi, I'm Eralp! 👋</h1>
+  <h3>Senior Software Developer & SaaS Founder</h3>
+  <p>
+    <i>Turning coffee into code and ideas into <b>SaaS products</b>.</i>
+  </p>
 
-<br/>  
+  <a href="https://linkedin.com/in/eralpozcan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://eralpozcan.dev">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 
+<br />
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eralpozcan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+### 🚀 What I'm Up To
 
-<br/>  
+I focus on building scalable web applications and SaaS solutions that solve real-world problems. Currently, I'm:
 
+- 🎓 **Building:** A SaaS platform that provides a professional portfolio for users to showcase their certificates and achievements in one place. [MyCertificates](https://mycertificates.io)
+- 🏗️ **Developing:** Two other niche SaaS products focused on **Real Estate** management and **Expert Witness** (Bilirkişi) processes.
+- 🦀 **Exploring:** System programming with **Rust** and advanced performance patterns in **Nuxt 3**.
+- 💡 **Sharing:** Writing articles on [Medium](https://medium.com/@eralpozcan) about software architecture and development experiences.
 
-## Recent Blog Posts  
+<br />
+
+### 🛠️ The Toolbox
+
+Here are the technologies I use to build products, not just write code:
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Core Stack** | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Nuxt 3](https://img.shields.io/badge/Nuxt_3-002E3B?style=flat-square&logo=nuxt.js&logoColor=#00DC82) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend & Data** | ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Currently Learning** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) *Performance critical systems* |
+
+<br />
+
+### 🎹 Away From Keyboard
+
+When I'm not deploying to production, you can find me:
+* 🎹 Playing the **Piano** (exploring the arts).
+* 🍷 Tasting wines & experimenting with new **Cocktail** recipes.
+* 🎮 Analyzing game economies in MMORPGs.
+* ✈️ Traveling to a new city every month.
+
+<br />
+
+### 📊 Github Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eralpozcan&theme=radical&hide_border=true" align="center" />
+</div>
+
+<br />
+
+### ✍️ Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
 - [Nuxt 3 Modül Geliştirme ve Yayınlama: Adım Adım Rehber](https://medium.com/@eralpozcan/nuxt-3-module-gelistirme-ve-yayinlama-adim-adim-rehber-d4b3a58f58bc?source=rss-ca499f26d8b5------2)
 - [Nuxt 3 Modules: How to Develop, Use, and Publish Them Effectively](https://medium.com/how-to-use/nuxt-3-modules-how-to-develop-use-and-publish-them-effectively-36ef2e76108f?source=rss-ca499f26d8b5------2)
-- [How to Improve Our GitHub? How to Prepare a Profile? How to Write a README?](https://medium.com/how-to-use/how-to-improve-our-github-how-to-prepare-a-profile-how-to-write-a-readme-e8f191311ad8?source=rss-ca499f26d8b5------2)
 - [Github’ımız Nasıl Daha İyi Hale Getirilir? Profil Nasıl Hazırlanır? README Nasıl Yazılır?](https://medium.com/@eralpozcan/github-nasil-daha-iyi-hale-getirilir-profil-nasil-hazirlanir-readme-nasil-yazilir-ed85fa3f60fb?source=rss-ca499f26d8b5------2)
-- [TensorFlow.js ve Vue 3 ile Nesne Tanımlama Nasıl Yapılır?](https://medium.com/@eralpozcan/tensorflow-js-ve-vue-3-ile-nesne-s%C4%B1n%C4%B1fland%C4%B1rma-nas%C4%B1l-yap%C4%B1l%C4%B1r-999cdcdce9d9?source=rss-ca499f26d8b5------2)
 <!-- BLOG-POST-LIST:END -->  
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=eralpozcan&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
